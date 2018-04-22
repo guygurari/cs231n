@@ -1,0 +1,7 @@
+
+| train accrcy | val accrcy | description                                |
+|--------------+------------+--------------------------------------------|
+|        0.449 |      0.575 | my original model                          |
+|        0.477 |      0.578 | more conv-relu, filter size = 7            |
+|        0.506 |      0.557 | more conv-relu, filter size = 4, rate=1e-3 |
+|              |            |                                            |
